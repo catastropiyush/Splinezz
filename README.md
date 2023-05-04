@@ -1,2 +1,2 @@
 # Splinezz
-Spline Interpolation using Thomas Algorithm
+Cubic Spline Interpolation using Thomas Algorithm
